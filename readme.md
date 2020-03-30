@@ -1,5 +1,5 @@
 # New Machine Setup
-![](https://github.com/andrewmundy/fresh/blob/master/freshimg.jpg)
+![](https://github.com/andrewmundy/fresh/blob/master/freshimg.gif)
 
 
 ## Install Homebrew
@@ -12,7 +12,6 @@
 - `sudo node ~/.zshrc`
 - add `plugins=(zsh-nvm)`
 - `nvm install stable`
-- 
 
 ## Install ZSH
 - install `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
