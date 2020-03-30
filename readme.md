@@ -1,5 +1,5 @@
 # New Machine Setup
-![]("./freshimg.jpg")
+![](https://github.com/andrewmundy/fresh/blob/master/freshimg.jpg)
 
 
 ## Install Homebrew
