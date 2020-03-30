@@ -1,4 +1,5 @@
 # New Machine Setup
+![]("./freshimg.jpg")
 
 
 ## Install Homebrew
